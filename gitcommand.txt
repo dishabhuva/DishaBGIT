@@ -3,13 +3,13 @@ We will learn about basic commands of GIT
 its gonna funnnnnnnnnnn to learn GIT commands everyDAY.
 
 
-1.git init
-2.git config --global variable name 'value'
-3.git status
-4.git add filename
-5.git rm --cached removegit
-6.git commit -m "message what you changes in repository"
-7.git diff filename
-8.git add -u ================================================its scary to fire this......
-9.git
-10.git 
+1.git init                                            =======> initialize git repository
+2.git config --global variable name 'value'         =========> cinfigure global variable like username,email,color
+3.git status                                          =======> status of all git file
+4.git add filename=                                  ========> add file in git
+5.git rm --cached removegit                          ========> remove from git repo but keep in local
+6.git commit -m "message" filename                   ========> commit
+7.git diff filename                                  ========> how the difference with last commit 
+8.git add -u 					     ========> its scary to fire this......
+9.git log                        		     ========> History
+10.git show <hash> 					=====>
