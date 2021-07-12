@@ -12,4 +12,4 @@ its gonna funnnnnnnnnnn to learn GIT commands everyDAY.
 7.git diff filename                                  ========> how the difference with last commit 
 8.git add -u 					     ========> its scary to fire this......
 9.git log                        		     ========> History
-10.git show <hash> 					=====>
+10.git show <hash> 					=====> add hex code ofd commit to show diff
