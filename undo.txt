@@ -1,0 +1,6 @@
+Lets make a new file of how to undo in git local repository.
+
+
+undo : first line 
+
+undo : second 
