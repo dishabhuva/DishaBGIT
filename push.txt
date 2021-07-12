@@ -1,1 +1,6 @@
 Let's push some files to GIT.
+
+
+i learned about how to push file to git by 
+
+git add filename.
