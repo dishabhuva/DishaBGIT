@@ -1,8 +1,14 @@
 We will learn about basic commands of GIT
 
-its gonna funnnnnnnnnnn.
+its gonna funnnnnnnnnnn to learn GIT commands everyDAY.
 
 
 1.git init
-2.git config
+2.git config --global variable name 'value'
 3.git status
+4.git add filename
+5.git rm --cached removegit
+6.git commit -m "message what you changes in the repository"
+7.git diff filename
+8.git add -u
+9.git 
